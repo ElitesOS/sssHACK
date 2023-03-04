@@ -2,7 +2,7 @@
 
 ## ⚠️ Note : Dont Try To Missuse This Repo
 
-[![Deploy To Heroku](https://heroku.com/deploy?template=https://github.com/ElitesOS/sssHACK)](https://heroku.com/deploy)
+[![Deploy To Heroku](https://heroku.com/deploy?template=https://github.com/ElitesOS/sssHACK)](https://heroku.com/deploy?template=https://github.com/ElitesOS/sssHACK)
 
   
 Best Deploy On Scallingo
